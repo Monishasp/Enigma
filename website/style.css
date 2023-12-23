@@ -1,0 +1,72 @@
+body {
+    background-color: #528cc5;
+    font-family: 'Open Sans', sans-serif;
+    align-content: center;
+}
+
+.navbar {
+    background-color: #343a40;
+    padding: 10px;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-size: 20px;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #fff;
+    font-size: 18px;
+}
+
+.container {
+    padding: 20px;
+}
+
+.login-btn {
+    background-color: #343a40;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #50565c;
+    color: #fff;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.table thead th {
+    color: #fff;
+    background-color: #343a40;
+    font-size: 18px;
+}
+
+.table tbody td {
+    font-size: 16px;
+}
+
+.pagination {
+    margin-top: 20px;
+}
+
+.pagination .page-item .page-link {
+    color: #343a40;
+    font-size: 18px;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
